@@ -3,3 +3,4 @@ bulletinServerData.json
 commanderData.json
 commanderServerData.json
 ui/*
+.env
